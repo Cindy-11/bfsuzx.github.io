@@ -1,0 +1,82 @@
+*{margin: 0 auto;padding: 0}
+body{background: #faf0d8;}
+a{text-decoration: none;color: #140b0c;}
+.quan{width: 1200px;height:1200px;background: #fff;}
+.right{width: 868px;height: 100%;margin-left: 15px;float: left;}
+
+
+/*Home*/
+.right .rtop{width:853px;height: 58px;border-bottom: 2px solid #561403;color: #140b0c;font-size: 18px;float: left;}
+.right .rtop span{margin-top: 30px;margin-left: 10px;float: left;}
+.right .rcen{width: 100%;height: 475px;float: left;padding:20px 0 20px 0;}
+.right .rcen .ft{width: 521px;height:100%;float: left;}
+.right .rcen .ft p{margin-bottom: 25px;line-height: 26px;}
+.right .rcen .ri{width: 317px;height: 100%;padding: 0 10px 0 20px;float: left;}
+.right .rxc{width: 100%;height: 222px;float: left;padding-top: 15px;font-size: 0;}
+.right .rbtn{width: 100%;height: 202px;float: left;padding-top: 19px;}
+.right .rbtn .rbleft{float: left;}
+.right .rbtn .rbright{float: left;margin-left: 25px;}
+.right .rbtn .rbright li{margin-top: 20px;list-style: none;}
+
+/*Overview*/
+.right .rahtop{width: 100%;height: 314px;padding-top: 15px;float: left;}
+.right .food{width: 100%;height: 256px;padding-top: 28px;float: left;}
+.right .food .foodfl{height: 100%;width: 431px;float: left;padding-right: 20px;}
+.right .food .foodfl span{font-size: 24px;font-weight: 600;}
+.right .food .foodfl p{margin-top: 20px;}
+.right .food .foodri{width: 417px;height: 100%;float: left;}
+
+/*Syllabus*/
+.right .rzbtn{width: 853px;height: 764px;float: left;}
+.right .rzbtn p{margin-top: 26px;}
+.right .rzbtn h1{ width:100px;  border:#333 1px solid; text-align:center; background:#a5cace; height:35px; line-height:35px; font-size:16px; margin:0 auto;margin-top:10px;margin-top:20px}
+.right .rzbtn .xian{ width:620px; height:30px; background:url(../images/z07.jpg) no-repeat; margin-top:20px}
+.right .rzbtn .xian2{ width:620px; height:30px; background:url(../images/z09.jpg) no-repeat; margin-top:20px}
+.right .rzbtn .bx1{width: 720px;
+
+height: 35px;}
+.right .rzbtn .bx1 ul{}
+.right .rzbtn .bx1 ul li{width: 100px;
+
+border: #9ec6ca 1px solid;
+
+text-align: center;
+
+height: 35px;
+
+line-height: 35px;
+
+font-size: 16px;
+
+margin: 0 auto;
+
+    margin-right: auto;
+
+float: left;
+
+list-style: none;
+
+margin-right: 180px;}
+.mar0{ margin-right:0px !important;}
+.right .rzbtn .bx2{width: 100%;
+
+height: 35px;}
+.right .rzbtn .bx2-box01{ width: 28%;
+height: 500px;
+float: left;
+background:#cac8c8;
+margin: 2% 2%; }
+.right .rzbtn .bx2-box01 h1{ padding: 0px 10px;
+
+border: #333 1px solid;
+
+width: 150px;
+
+margin-top: 0px;
+margin-bottom:10px; margin-top:20px;}
+.right .rzbtn .bx2-box01 p{margin-top: 0px !important; padding-left:40px;
+
+font-size: 12px; line-height:20px;}
+
+
+
